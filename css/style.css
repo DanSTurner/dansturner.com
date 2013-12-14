@@ -2,10 +2,14 @@ section {
   padding-top: 30px;
 }
 
-#social i {
-  width: 35px;
+.fa, .fa-stack {
+  width: 50px;
   text-align: center;
-  display: inline-block;
+  vertical-align: middle;
+}
+
+p {
+  margin: 15px 0px;
 }
 
 .container {
