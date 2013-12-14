@@ -36,4 +36,11 @@ a { color: #D3643B; }
 
 a:hover { color: #94C7B6; }
 
-body { color: #403B33 }
+body {
+  color: #403B33;
+  font-family: 'Trykker', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
