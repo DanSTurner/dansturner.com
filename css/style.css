@@ -1,0 +1,51 @@
+section { padding-top: 30px; }
+
+.fa, .fa-stack {
+  width: 50px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+p { margin: 15px 0px; }
+
+.container {
+  max-width: 730px;
+  background: #EDEBE6;
+}
+
+.jumbotron {
+  min-height: 246px;
+  background-color: #D6E1C7;
+}
+
+.jumbotron h1 {
+  display: block;
+  margin: 10px;
+}
+
+.jumbotron h1 small { display: block; }
+
+#about p {
+  margin: 20px 20px 0px;
+  text-indent: 25px;
+}
+
+footer { text-align: right; }
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .nav > li > a:hover, .nav > li > a:focus {
+  background-color: #D3643B;
+  color: #FFFFFF;
+}
+
+a { color: #D3643B; }
+
+a:hover { color: #94C7B6; }
+
+body {
+  color: #403B33;
+  font-family: 'Trykker', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
